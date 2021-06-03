@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Martin Luther's declaration to his countrimen. First published in Dutch by himself, and translated by Sleidan, a most faithfull historian in his fifth book of commentaries, and truly from him into English: by a constant friend to the peace and truth of the Gospel. Prœjudicium prœcipitium.</title>
+            <title>Treue Vermahnung zu allen Christin. English</title>
+            <author>Luther, Martin, 1483-1546.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88658</idno><idno type="EEBO-CITATION">99871560</idno>
+  <idno type="VID">123972</idno>
+  <idno type="EEBO-PROQUEST">2240945071</idno>
+  
+            <idno type="STC">Wing L3511</idno>
+            <idno type="STC">Thomason E85_42</idno>
+            <idno type="STC">ESTC R22011</idno>
+            <idno type="PROQUEST">99871560</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871560e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123972)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Martin Luther's declaration to his countrimen. First published in Dutch by himself, and translated by Sleidan, a most faithfull historian in his fifth book of commentaries, and truly from him into English: by a constant friend to the peace and truth of the Gospel. Prœjudicium prœcipitium.</title>
+                  <title>Treue Vermahnung zu allen Christin. English</title>
+                  <author>Luther, Martin, 1483-1546.</author>
+                  <author>Constant friend to the peace and truth of the Gospel.</author>
+                  <author>Sleidanus, Johannes, 1506-1556. De statu religionis et reipublicae, Carolo Quinto Caesare, commentarii. Liber 5. English.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "Jan. 23 1642 London.".</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Luther, Martin, 1483-1546 --  Early works to 1800.</term>
+               <term type="topical_term">Government, Resistance to --  Religious aspects --  Christianity.</term>
+               <term type="topical_term">Church and state --  Early works to 1800.</term>
+               <term type="topical_term">Allegiance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:123972:1"/>
+            <pb facs="tcp:123972:1"/>
+            <head>
+               <hi>MARTIN LUTHER'S</hi> DECLARATION to his Countrimen.</head>
+            <byline>First published in Dutch by himself, and translated by SLEIDAN, a most faithfull Historian in his fifth book of Commenta<g ref="char:EOLhyphen"/>ries, and truly from him into English: By a constant friend to the Peace and Truth of the GOSPEL.</byline>
+            <epigraph>
+               <q>
+                  <hi>Praejudicium praecipitium.</hi>
+               </q>
+            </epigraph>
+            <head>E. 5 Sleidan, p. 115</head>
+            <p>DIstractions encreasing through <hi>Germany,</hi> when things seemed to tend towards tumults, and insurrections (for the Boores had <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taken up arms) <hi>Luther</hi> in a published writing w<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed all to abstaine from sedi<g ref="char:EOLhyphen"/>tion. For although some terrible, and present danger seemed to hang over the Churchmens heads: yet he thinks that it would be nothing, or not so great as to overturn all their power; for a sarve greater mis<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry h<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their heads, and that that would come to passes which after <hi>Daniel, Paul,</hi> if for told, that their Tyranny should fall by no humane power, but by the comming of Christ our Saviour, and the holy Ghost, and that this was the foundation of his opinion, and these use hee never greatly resisted them, who attempted to bring about their distraction with war, and that he certainly knows that they endavour in vain and although happily some few Churchmen are s<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ine: yet this butchery will not take away all of them, and that they now tremble
+<pb n="2" facs="tcp:123972:2"/>and run up and downe, and that hee heartily wishes that they may tremble more and more, if perchance they may repent of their offences: but that the wrath of God is kindled, and that formerly they were troubled with the danger of their lives, and now of their estates: but take no thought how to be reconciled to God, nay, secure in all things, despise so good admonitions, and almost laugh at the denouncing of Gods wrath: and although they have reason to feare nothing worse, yet since the present condition of aff<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ires re<g ref="char:EOLhyphen"/>quire some Declaration of my advices, I will freely speak my mind. And first of all it concerns the Magistrate to provide that their people receive not any damage, and to endeavour that Religion bee not blemished with false do<g ref="char:EOLhyphen"/>ctrines: this is their duty, and that they ought to use all the power they have to Gods glory, and the peoples safety: but because they do far otherwise, and hinder each other, and some too maintain false doctrines, that those Princes shall not escape unpunished. This is not my Councell, that Papists should be opposed with arms, but that the Magistrate should bind them to their duty, and should in this exercise their power, and authority, and should not streng<g ref="char:EOLhyphen"/>then their boldnesse and impiety, neither with their clemencie or dissembling. But as for the common people, and unskilfull multitude that they must grave<g ref="char:EOLhyphen"/>ly be warned, that they take not up armes, unlesse with the consent of their Prince: for otherwise they will lose their labour, and God will take venge<g ref="char:EOLhyphen"/>ance on them, neither shall so great a sin be attoned with so light a punish<g ref="char:EOLhyphen"/>ment. But that the Magistrates go on so slowly and negligently, and suffer so great indignities, and are not a whit moved with so open injuries, and scoffs of the Churchmen: this falls out through Gods permission, that hee himselfe might revenge this businesse, and poure out all his vengeance on them. And though happily this should break forth into tumults, and God suffer himself to be satisfied with so gentle a punishment: yet these ways of sedition are not onely not commendable, but unprofitable also: for there's no reason in sedition, and it commonly fals out, the innocent principally suffer, and that none that raiseth tumults are excusable, although their cause be just and when a popular tumult is once up, good and honest men must needs perish together with the ungodly, and wicked. Therefore we must have an eye to the Prince, and so long as he stirs not, we must not attempt any thing privatly. For all sedition thwarts Gods Commandements, who hath commanded that all the differences of pri<g ref="char:EOLhyphen"/>vate men ought to be ended by law. And since sedition is nothing else but pri<g ref="char:EOLhyphen"/>vate revenge, and no man doubts but God disallows, and hates it: and that this present sedition is raised by the Devill, the enemy of mankind, who not abiding the light of the truth, stirs up sedition amongst men that professe the Gospell, that hee might bring into hatred and dispraise the Truth restored us
+<pb n="3" facs="tcp:123972:2"/>by Gods blessing for some yeers past, as if it came not from God, and seem'd to give occasion to so great evils, as our Adversaries exceedingly brag hereof, yet their judgments are to be slighted, and I wholly contemne them. I have neither written nor spoken any thing to kindle any sedition. Now for them which ask and object what then must be done, and how far must wee suffer these indig<g ref="char:EOLhyphen"/>nities, the Prince conniving, and dissembling: they must follow this rule, first, acknowledge their sins, with which God being angry hath permitted this Churchmens tyranny to be so lasting, and to wander so far: that this so cruell and wicked power is the wages of our sins, and ungodlinesse, which if wee would have taken from us, wee ought principally to reconcile God to us by amendment of our lives, then with fervent prayer desire Gods assistance a<g ref="char:EOLhyphen"/>gainst the power of the Pope, following <hi>Davids</hi> example, who besought God often that hee would break the power and pride of the ungodly. Lasty, we must make famous the doctrine of the Gospell, and manifest to the whole World the impostures of the papists, that their Errours being discovered, and the truth received, men would esteem at nought, and contemne whasoever proceeds from them: and that this is the best means to weaken their powers. Nothing at all is gained with force, and armes, and for the most part it fals out that they are rather strengthned by war. But if Christ should be compared with the person of the Pope, then it would appear, what's the difference be<g ref="char:EOLhyphen"/>twixt the Light of the Sun, and darknes, and what a blessing God hath conferd upon us, by making a passage for us to the knowledge of himselfe, removing all rubs out of the way, and then at last will all their power, and credit decay. This may be shewed in my own example, who have more troubled the Pon<g ref="char:EOLhyphen"/>tificall power then any violence, or force of arms could doe, and therefore no other sedition is to be wished for, and that the preaching of the Gospel alone now revived with Christs assistance will be powerfull, and sharp enough to destroy the Popedom. Hither we must fix our eyes and mind, neither looke any whither else. This is not my work wherein I am conversant (for so great a weight exceeds the strength and measure of mans wit) that the Gospel hath spread so far, and hath wholly exceeded my expectation, and therefore doubt not but he which hath laid the foundation of the work, hath given the increase, will bring it also to an end and period, although all our enemies resist and op<g ref="char:EOLhyphen"/>pose themselves against us. When the Devill saw all other his attempts in vain, betook himself to a new course, &amp; raiseth men to sedition, that he might hinder men from falling from his owne and the Popes government, but hee will not bring to passe what hee endevours, and 'twill come to passe, that more and more 'twill be weakned by the preaching of the true doctrine, we must perse<g ref="char:EOLhyphen"/>vere in that doctrine with all care, and diligence, and declare how little mens
+<pb n="4" facs="tcp:123972:3"/>decrees availe to salvation, Satan now seeing the decay of his Kingdome ni<g ref="char:EOLhyphen"/>ses tumults, and assayes to hinder the growth of the Gospell by Sedition. 'Tis true, I confesse, that those Princes which will not suffer the preaching of the Gospell, which presse and oppresse their people many ways are worthy to be dethroned by God, for they are inexcusable. And although this be so yet must you be carefull to keepe your consciences pure, and blamelesse, otherwise you will lose both body and soule. Neither ought you to consider how great your forces are, or how much your adversaries are to be blamed, but how just and lawfull the cause is you maintain. Take therefore carefull heed. Neither believe all Sermons, for Satan under pretence of the Gospel hath raised up at this time many seditious, and bloudy teachers. Truly I will freely and syn<g ref="char:EOLhyphen"/>cerely councell you as I ought: 'Tis your part to minde and hearken to him that rightly counsels you. Neither, though many speak evill of me and raile at me, am I moved thereat. It is enough if I can snatch some from Gods ven<g ref="char:EOLhyphen"/>geance, I regard not the other crew, and as they contemne me, so neither on the otherside do I feare them. But to come to the purpose, you challenge in<g ref="char:EOLhyphen"/>deed the name of God, and yee call your selves a Christian company, and brag you will follow that law God hath ordained. But without doubt, you know Gods name is not to be taken in vain, nor saifly: For God hath threatned such a punishment which waits on you. For you doe not well in this businesse. He that drowned the world, that destroyed <hi>Sodom</hi> with fiery raine, will easily overturn you also whatsoever your strength is. But it may be easily demon<g ref="char:EOLhyphen"/>strated that you falsly pretend the name of God in your actions: therefore wee may cleerly judge of the issue, for He deceives not that said, <hi>They that take the sword, shall perish with the sword,</hi> they, to wit, who boldly of themselves take upon them the power of punishing, notwithstanding: <hi>Paul</hi> commands <hi>every soul to obey their Princes reverently, and with feare.</hi> What will you an<g ref="char:EOLhyphen"/>swer to this, who feigne you will follow the prescript of GODS Word, and yet in the meane while ye take the Sword and resist your Prince whom God hath set over you? Is not this to take Gods Name in vain? But you object the Prince so behaves himselfe, that he is not to be endured: for hee takes from us the doctrine of the Gospell, and in all other things so oppresseth that he cannot more. Grant 'tis so, yet notwithstanding all this, warre and sedition are not to be raised: for it belongs not to every one to restraine evils, but to him alone to whom is given the power, and <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight of the Sword as the Scripture plainly speakes. Besides not onely lawes, but the law of nature too imprinted in us, shew that 'tis not lawfull for any one to be jurie and judge in his owne cause: for we are all naught and wholly blinded with self love. But it cannot be denied that this your Tumule and sedition is a
+<pb n="5" facs="tcp:123972:3"/>private revenge, because you take upon you to be judges in your own cause, and endeavour to revenge those injuries you thinke are done you with your owne power, but this your dealing is against the law of God, the law of nature, and justice it selfe. And since this is so, you cannot by any means defend this heynous crime; for if you have any warrant from God for these doings, you must needs declare it by some notable miracle. But here it falls out as Christ saith, you see cleerely what is to be blamed in others, but observe not how much im<g ref="char:EOLhyphen"/>pietie there is in your owne cause. The Magistrate you say deales unjust<g ref="char:EOLhyphen"/>ly, but you much more unjustly, who contemning Gods commandement <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ease one anothers right, who leave nothing at all to your Prince: for what is left to him when ye take away his power? I appeale unto your selves. Which thinke you is the worse of the two, he that takes away from a man a great part of his goods yet leaves something, or he that having taken away the goods, takes away his life also? The Prince takes from you your estates, he doth unjustly. But you take away his power wherein consists his whole fortune both of body and goods. Therefore you are worse then he. But you will say, we neither desire his life, nor estate. Beleeve this he that will, I will not. Whosoever takes away from any one, the chiefe part will not feare to take away the residue that depends thereon. But be it as you say, Let him enjoy his estate, let his life be safe; that which you have done already exceeds all measure. When you have spoyl'd him of all power, you your selves will bee Lords paramount. Weigh this within your selves. I beseech you; if this your course be commendable and must provaile, there will be no Judgements, no Magistrates, and it shall be lawfull for every one privately to doe to any one according to his owne will and lust, neither can we looke for any other fruit from hence then killing and plundering one another: for as every one thinks he is injured by another, so will he revenge that wrong as he pleaseth. But if this be unjust, and ought to be indured in no person, much lesse ought it to be granted to any multitude of men assembled together. Or if it be granted, it is to be borne in each person. What? in this your company if things should come to that Liberty, that every one should defend his owne cause privately, I pray you what would you doe? without doubt he should be compeld to appeare before the common place of Judgement, established by you: what excuse have you then, which teare asunder Justice, and reject your Prince whom God himselfe hath set over you. This law wher<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>of we speake is im<g ref="char:EOLhyphen"/>printed in all mens minds and is reverenced even by the most barbarous peo<g ref="char:EOLhyphen"/>ple: for otherwise all things would be tumu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tuously carried. Which did you observe diligently, yet were ye not herein much better then the Turkes, or such kind of people ignorant of our Religion: for to undergoe publick Try<g ref="char:EOLhyphen"/>all,
+<pb n="6" facs="tcp:123972:4"/>and obedience to the Prince, makes not up a Christian. For very necessi<g ref="char:EOLhyphen"/>tie compels us even against our wills hereunto. Since therefore you violate this law of nature, you are farre worse then the Heathens: so farre are you from being worthy of the name of Christians, which title since you arrogate to your selves, and wrong Gods name, being unworthy of the name of Turks, since you violate the law of nature. How then will ye stand in the sight of Christ at the day of the universall Judgement? Looke to it againe, and a<g ref="char:EOLhyphen"/>gaine, what teachers you have, for feare I left some bloody teachers have crept in amongst you, who drive you on with Sermons, that having your aide they might invade both Power and Soveraigntie, careless: wholly of your estates and salvation. God commands that all revenge should be left to him, Scrip<g ref="char:EOLhyphen"/>ture commands us to obey even bad governours. Therefore wee must obey, else you shall raise sedition, which at length will fall on your owne pates, for God will not suffer this licentiousnesse to escape unpunished, and while ye seeke for libertie lose your life, goods, and soule. Gods wrath is hot against you, and the Divell (the enemie of all mens salvation) hath sent false Teach<g ref="char:EOLhyphen"/>ers amongst you. Beware therefore and repent. Now shall I speake of Chri<g ref="char:EOLhyphen"/>stianitie and Gospell, since you take this name upon you, 'tis fit tryall should be made what manner of law yours is. And first Christ commands us not to resist evill, but to him that strikes th' one cheeke, we must reach the other; to him that takes away our coat, we must give our cloake also: that we should blesse and doe good to our enemies. To the same purpose are many places in holy writ. But now see how this your course answers Christs command; see whether your Teachers have led you. 'Tis a Christians part to suffer, take up the Crosse, not to resist, not to revenge, not to strike with the Sword. But what like this is seene in you? Very hard is the Christian profession, and few performe that which indeed they ought, which that it may the better be un<g ref="char:EOLhyphen"/>derstood, I will give you an example of that law whereof we speake; <hi>Peter</hi> that he might defend his Lord and Master, smote the servant of the high Priest. Did he not doe it on good ground? Since they did not onely seeke Christs life, but did take from his Disciples the Gospell whereon their salvation did depend, <hi>viz.</hi> by taking away their Master Christ; But you have not yet suffe<g ref="char:EOLhyphen"/>red so great an injurie. But what doth Christ the vvhile? he commands <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> to abstaine from defence, deeply sentencing those that take up the Svvord without their Princes consent, and execute private revenge. What doth Christ when he is nailed to the Crosse? when he's forbade to teach as God the Fa<g ref="char:EOLhyphen"/>ther had commanded? he beares patiently, relies wholly on God the Father, and prayes unto him for his persecuors, you must tread in these footsteps, or lay downe that glorious title. But now since you take up Armes, you shalt
+<pb n="7" facs="tcp:123972:4"/>not obtaine your desires, and your weapons shall fall out of your hands. And now will I speak somewhat of my selfe. The whole world opposed me migh<g ref="char:EOLhyphen"/>tily, and yet notwithstanding by how much their opposition was more vehe<g ref="char:EOLhyphen"/>ment, by so much did my doctrine spread the wider. How so? Because I did nothing violently, I raised no tumult, I was not desirous of revenge, but the civill Magistrate I reverenced and honoured them with my writings as much as in me lay and what was most principall, commiting all to God, I did acquiesse in his power. Thus therefore have I been preserved to this day, though the Pope and my adversaries gnash their teeth at me, and my doctrine hath spread to many people. But you proceed too violently, and whiles you thinke you promote the worke, conceive not how much you endamage it. These things are spoken to this purpose, that you lay aside from you the name of Christians, though yee maintaine the best cause, yet as we shewed before, 'tis neither lawfull for a Christian man to fight against, nor resist an evill Prince. The title therefore, and name of Christians I neither grant, nor give you; Neither would I hereby excuse your Princes, for they doe ma<g ref="char:EOLhyphen"/>ny things unjustly I acknowledge, yet neverthelesse this your action is farre removed from the profession of the Christian name. But if you shall wilful<g ref="char:EOLhyphen"/>ly keepe that name, and under this colour shall shadow your cause; I professe my selfe your enemie, because under pretence of the Gospell. yee doe that which plainly crosseth the doctrine of Christ; Therefore I shall pray God that he would looke on you a farre off, and overthrow this your course. I shall thus pray, though I had rather you should so demeane your selves, that it might not be needfull for me to pray thus against you; They which are true Christians doe nothing violently, but suffer and pray as the holy men of all times shew be their example: for this is the onely saving way, and brings greatest quiet to the conscience. But you can expect no blessing from God. Indeed it may come to passe (that God winking at it) you may finde some successe, but at last all will turne to your owne destruction, yee ought not to force any thing from the Magistrate; for that's against justice, and the law of nature. The places of Scripture quoted by your Teachers are neither fully, nor faithfully cited, and being more neerly eyed make not for you, but against you. This you principally say, the Gospell is taken from you, but it cannot be that any one should be driven there from, for 'tis not tied to any certaine place, but freely wanders and is spread throughout the world: as that starre which shone to them that came from the East, shewing them where Christ was borne and lay. 'Tis indeed in the Princes power to forbid any one to come where the Gospell, is taught, but 'tis in our power too, to forsake our Countrey, and to persue this doctrine in other Countries. Any place it selfe is
+<pb n="8" facs="tcp:123972:5"/>not to be kept or seized on by you, but must be resigned up to the Prince or Lord, and we must goe some whither else as Christ teacheth. As for the first demand concerning the choosing of Ministers 'tis well, if you proceed order<g ref="char:EOLhyphen"/>ly; For if the Prince were doner of the goods wherewith the Ministers are mantained, then 'tis not lawfull for the people to bestow it on any one: but first the Prince is to be desired to set over a Pastor, if he refuses, the people may choose, and maintaine one at their own charges; if the Prince permit not this, then must the chosen Pastor fly, and he that will with him: if you doe otherwise you commit sinne and injurie. And this is my opinion and coun<g ref="char:EOLhyphen"/>sell (men and brethren) which you desired of me, now 'tis your part, since you write, you will obey the testimonies of Scripture, to apply your minds hereunto. But doe not so soon <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s these things shal be brought unto you sh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as if I were become the Princes flatterer as if I taught truly; but first weigh the whole matter, and the reasons urged, for certainly your <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usinesse is handled, but especially beware of those teachers that stirre you up. I know all this kind of m<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, they lead you to a steep, that they may get honours and estates by your danger.</p>
+         </div>
+         <div type="commentary">
+            <p>
+               <hi>The cause why</hi> Luther <hi>objects unto them a false title wherewith they freed themselves from reproach, was this, because that they in all their Letters, when they inited and compelled men to an association, bragg'd that they put themselves in arms by Gods command, and out of love to the Common wealth, that the Gos<g ref="char:EOLhyphen"/>pell might be made famous, encrease, and be kept, that truth and righteousnesse, and honesty of life might be enlarged, that they might prouide for themselves and theirs, and might not be any more oppressed by any force. And when they had thus given an account of their doings, in few words they commanded their neigh<g ref="char:EOLhyphen"/>bours, that presently, and out of hand they hasten to them in armes, and aide them, if not then they threatned that they would speed to them with all their forces.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
